@@ -15,10 +15,10 @@ const Video: React.FC = () => {
               <h4>Video explicativo</h4>
               <hr />
               <div style={{ border: "2px solid #198754", height: "95vh" }}>
-                <iframe width="100%" height="100%" src="https://www.youtube.com/embed/Y0F5-CwfVwA"
-                  title="Ionic 5 + React aplicación práctica"
-                  frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-                  allowFullScreen></iframe>
+              <iframe width="100%" height="100%" src="https://www.youtube.com/embed/vXFBI1LLiME" 
+              title="Tarea 3 - Ionic - Presentaacion" frameBorder="0" 
+              allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+              allowFullScreen></iframe>
               </div>
             </div>
           </div>

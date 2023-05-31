@@ -66,9 +66,9 @@ const App: React.FC = () => {
               <Video />
             </Route>
 
-            {/* <Route path="/page/:name" exact={true}>
-              <Page />
-            </Route> */}
+            <Route path="/page/*" exact={true}>
+              <Home />
+            </Route>
           </IonRouterOutlet>
         </IonSplitPane>
       </IonReactRouter>
